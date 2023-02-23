@@ -1,0 +1,41 @@
+Em ambos os lados:
+	Quando o client quer acessar algum arquivo do servidor, é feito um REQUEST. Contudo, para que o Request seja feito, necessita-se passar pelo DNS, pois é o DNS
+que vai identificar/ligar, por exemplo, o número (IP) que está associado com aquela pesquisa (URL).
+	Quando o pedido sai do DNS, o pedido volta com um número que, agora, pode ser usado para identificar o conteúdo que foi pesquisado no navegador.
+	Cada servidor vão ter um tipo de "pasta" que contêm arquivos.
+	
+Aqui que vai começar a diferença entre:
+
+	Se for um site que utiliza tecnologias Client-Side, por exemplo, JS, HTML e CSS, terá arquivos APENAS com tecnologias CLIENT-SIDE (obv)
+
+	1) Client-Side:
+		Quando o Requests chega ao servidor, o servidor retorna com os arquivos (response) para o client. Uma resposta para a tecnologia do tipo client-side
+seria pegar os arquivos que foram requisitados, fazer uma cópia e mandar para o client. Os arquivos que foram mandados vão ser processados por um software (no caso, 
+será por seu navegador) que retornará o resultado "printado" na tela.
+
+	
+
+
+
+
+
+
+
+
+	Se for um site que com tecnologias Server-Side, pode ter arquivos Client-Side e podem ter Scripts específicos para servidores.
+
+	2) Server-Side:
+		Diferentemente da tecnologia Client-side, os arquivos que foram requisitados não podem ser enviados diretamente para o usuário que fez o pedido, pois
+a máquina do usuário não será capaz de executar um script específico do servidor. Sendo assim, o Server-Side precisa gerar um resultado. A parte do Script, vai ser 
+submetido a um interpretador da linguagem PHP para gerar um resultado do processamento no servidor (os arquivos padrão). 
+
+
+Outras tecnologias Server-side:
+	Microsoft.NET
+	Perl
+	JavaServerPage
+	S.S.J.S (Server-side JavaScript)
+	Python (Django, Flask)
+	Ruby
+
+	

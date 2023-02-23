@@ -1,0 +1,12 @@
+Serve para criar sistemas:
+
+Cria servidores web:
+1) Site
+2) Loja online
+3) Uma plataforma EAD
+
+Mais ou menos:
+4) Sistema windows (com janelinha)
+
+Não dá:
+5) Jogo

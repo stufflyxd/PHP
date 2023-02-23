@@ -1,0 +1,3 @@
+Utilizando soluções em php
+	a) https://onlinephp.io/
+	b) Só pesquisar por soluções em PHP no google

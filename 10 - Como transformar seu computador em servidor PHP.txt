@@ -1,0 +1,14 @@
+1) O que vou precisar?
+	a) Lado do cliente: Navegador, Visual Studio Code
+	b) Lado do servidor: Apache, MySQL, Interpretador PHP
+		Solução AMP = Apache, MySQL, PHP
+
+2) Dá para utilizar as ferramentas no lado do client:
+
+	Se você estiver utilizando X, você procurar uma solução para:
+		a) x = Linux   -> LAMP
+		b) x = Windows -> WAMP
+		c) x = MacOS   -> MAMP
+
+	Solução que funciona com todos: XAMPP
+

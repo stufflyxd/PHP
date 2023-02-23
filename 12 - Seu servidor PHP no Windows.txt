@@ -1,0 +1,5 @@
+1) Vá no site https://www.apachefriends.org/ e faça download e instale 
+2) Para conseguir executar, é necessário ser usário admin
+3) Para saber se está funcionando, só colocar na URL do navegador 127.0.0.1 ou localhost. É o endereço de loopback, ou seja, endereço referente a sua própria máquina.
+4) No atalho do XAMPP:
+	Propriedades -> Atalho -> Avançados -> Executar como admin
